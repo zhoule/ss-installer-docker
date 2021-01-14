@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## apt update and install docker
-apt upate && apt -y install docker.io
+apt update && apt -y install docker.io
 
 
 ## install shadowsocks server
